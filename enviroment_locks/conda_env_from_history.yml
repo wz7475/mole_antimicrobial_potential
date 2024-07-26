@@ -1,0 +1,7 @@
+name: /raid/wzarzecki/mole/mole
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python=3.8
+prefix: /raid/wzarzecki/mole/mole
